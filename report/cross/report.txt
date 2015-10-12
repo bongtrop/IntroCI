@@ -1,0 +1,353 @@
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 5
+Ratio Correctly 0.5
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 6
+Ratio Correctly 0.6
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 7
+Ratio Correctly 0.4
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 8
+Ratio Correctly 0.55
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 9
+Ratio Correctly 0.4
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.01 Flood 10
+Ratio Correctly 0.3
+Mean Correctly Flood 10 is 0.46
+
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 5
+Ratio Correctly 0.5
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 6
+Ratio Correctly 0.6
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 7
+Ratio Correctly 0.4
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 8
+Ratio Correctly 0.45
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 9
+Ratio Correctly 0.4
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.05 Flood 10
+Ratio Correctly 0.55
+Mean Correctly Flood 10 is 0.475
+
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 1
+Ratio Correctly 0.55
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 2
+Ratio Correctly 0.8
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 3
+Ratio Correctly 1.0
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 4
+Ratio Correctly 0.8
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 5
+Ratio Correctly 0.95
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 6
+Ratio Correctly 0.8
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 7
+Ratio Correctly 0.75
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 8
+Ratio Correctly 0.9
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 9
+Ratio Correctly 0.95
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.1 Flood 10
+Ratio Correctly 0.85
+Mean Correctly Flood 10 is 0.835
+
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 1
+Ratio Correctly 0.85
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 2
+Ratio Correctly 0.9
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 3
+Ratio Correctly 0.95
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 4
+Ratio Correctly 0.9
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 5
+Ratio Correctly 0.95
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 6
+Ratio Correctly 0.9
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 7
+Ratio Correctly 0.75
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 8
+Ratio Correctly 0.95
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 9
+Ratio Correctly 0.9
+Net Structure [2, 5, 2] Learning Rate and Momentum 0.2 Flood 10
+Ratio Correctly 0.95
+Mean Correctly Flood 10 is 0.9
+
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 5
+Ratio Correctly 0.5
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 6
+Ratio Correctly 0.6
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 7
+Ratio Correctly 0.4
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 8
+Ratio Correctly 0.55
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 9
+Ratio Correctly 0.4
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.01 Flood 10
+Ratio Correctly 0.3
+Mean Correctly Flood 10 is 0.46
+
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 5
+Ratio Correctly 0.45
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 6
+Ratio Correctly 0.4
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 7
+Ratio Correctly 0.6
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 8
+Ratio Correctly 0.7
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 9
+Ratio Correctly 0.95
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.05 Flood 10
+Ratio Correctly 0.85
+Mean Correctly Flood 10 is 0.58
+
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 1
+Ratio Correctly 0.75
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 2
+Ratio Correctly 0.8
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 3
+Ratio Correctly 0.85
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 4
+Ratio Correctly 0.95
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 5
+Ratio Correctly 0.85
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 6
+Ratio Correctly 0.95
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 7
+Ratio Correctly 0.8
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 8
+Ratio Correctly 0.9
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 9
+Ratio Correctly 0.9
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.1 Flood 10
+Ratio Correctly 0.95
+Mean Correctly Flood 10 is 0.87
+
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 1
+Ratio Correctly 0.8
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 2
+Ratio Correctly 0.8
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 3
+Ratio Correctly 0.95
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 4
+Ratio Correctly 0.95
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 5
+Ratio Correctly 0.95
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 6
+Ratio Correctly 0.95
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 7
+Ratio Correctly 0.75
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 8
+Ratio Correctly 0.9
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 9
+Ratio Correctly 0.95
+Net Structure [2, 10, 2] Learning Rate and Momentum 0.2 Flood 10
+Ratio Correctly 0.9
+Mean Correctly Flood 10 is 0.89
+
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 5
+Ratio Correctly 0.5
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 6
+Ratio Correctly 0.6
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 7
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 8
+Ratio Correctly 0.55
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 9
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.01 Flood 10
+Ratio Correctly 0.35
+Mean Correctly Flood 10 is 0.465
+
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 2
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 3
+Ratio Correctly 0.75
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 4
+Ratio Correctly 0.8
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 5
+Ratio Correctly 0.75
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 6
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 7
+Ratio Correctly 0.65
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 8
+Ratio Correctly 0.55
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 9
+Ratio Correctly 0.75
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.05 Flood 10
+Ratio Correctly 0.65
+Mean Correctly Flood 10 is 0.605
+
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 1
+Ratio Correctly 0.65
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 2
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 3
+Ratio Correctly 0.8
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 4
+Ratio Correctly 0.8
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 5
+Ratio Correctly 0.8
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 6
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 7
+Ratio Correctly 0.65
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 8
+Ratio Correctly 0.6
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 9
+Ratio Correctly 0.9
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.1 Flood 10
+Ratio Correctly 0.65
+Mean Correctly Flood 10 is 0.665
+
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 1
+Ratio Correctly 0.5
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 2
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 3
+Ratio Correctly 0.7
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 4
+Ratio Correctly 0.6
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 5
+Ratio Correctly 0.8
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 6
+Ratio Correctly 0.4
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 7
+Ratio Correctly 0.65
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 8
+Ratio Correctly 0.6
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 9
+Ratio Correctly 0.7
+Net Structure [2, 15, 2] Learning Rate and Momentum 0.2 Flood 10
+Ratio Correctly 0.65
+Mean Correctly Flood 10 is 0.6
+
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 5
+Ratio Correctly 0.5
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 6
+Ratio Correctly 0.6
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 7
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 8
+Ratio Correctly 0.55
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 9
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.01 Flood 10
+Ratio Correctly 0.3
+Mean Correctly Flood 10 is 0.46
+
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 5
+Ratio Correctly 0.5
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 6
+Ratio Correctly 0.6
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 7
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 8
+Ratio Correctly 0.55
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 9
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.05 Flood 10
+Ratio Correctly 0.3
+Mean Correctly Flood 10 is 0.46
+
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 5
+Ratio Correctly 0.5
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 6
+Ratio Correctly 0.6
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 7
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 8
+Ratio Correctly 0.55
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 9
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.1 Flood 10
+Ratio Correctly 0.3
+Mean Correctly Flood 10 is 0.46
+
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 1
+Ratio Correctly 0.35
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 2
+Ratio Correctly 0.6
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 3
+Ratio Correctly 0.5
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 4
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 5
+Ratio Correctly 0.5
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 6
+Ratio Correctly 0.6
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 7
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 8
+Ratio Correctly 0.55
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 9
+Ratio Correctly 0.4
+Net Structure [2, 5, 5, 2] Learning Rate and Momentum 0.2 Flood 10
+Ratio Correctly 0.3
+Mean Correctly Flood 10 is 0.46
+
+Max Mean Correctly 90.0% by Net Structure [2, 5, 2] Learning Rate and Momentum 0.2

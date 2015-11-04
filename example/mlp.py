@@ -1,5 +1,5 @@
-import net
-import bp
+import ci.net as net
+import ci.bp as bp
 
 net = net.randNet([2,2,1])
 b = bp.bp(net, 0.5, 0.1)

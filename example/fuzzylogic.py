@@ -1,5 +1,5 @@
-from logic import *
-import mf
+from ci.fuzzy.logic import *
+import ci.fuzzy.mf as mf
 
 mfs1 = {"small": mf.down(10.0, 25.0), "medium": mf.tri(20.0, 30.0), "big": mf.up(25.0, 40.0)}
 mfs2 = {"low": mf.down(0.0, 0.5), "medium": mf.tri(0.0, 1.0), "high": mf.up(0.0, 1.0)}

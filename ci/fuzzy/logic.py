@@ -61,7 +61,6 @@ class logic:
 			domain = self.outputVal[o].getDomain()
 			f = self.outputVal[o].getFunc()
 			self.outputVal[o].clear()
-			print f
 
 			if (self.defuzzifier==logic.CT):
 				first = sum([a * b for (a, b) in zip(domain, f)])

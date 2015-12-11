@@ -1,0 +1,792 @@
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.964912280702
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 2
+Ratio Correctly 1.0
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.877192982456
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.859649122807
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.771929824561
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.842105263158
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.842105263158
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.892857142857
+Mean Correctly is 0.896303258145
+
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.842105263158
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.824561403509
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.857142857143
+Mean Correctly is 0.901503759398
+
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.912280701754
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 4
+Ratio Correctly 1.0
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.964912280702
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.982456140351
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.859649122807
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.857142857143
+Mean Correctly is 0.926065162907
+
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.842105263158
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.912280701754
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.964912280702
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.928571428571
+Mean Correctly is 0.927944862155
+
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.859649122807
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.859649122807
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.964912280702
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.877192982456
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.824561403509
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.877192982456
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.892857142857
+Mean Correctly is 0.89805764411
+
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.877192982456
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.877192982456
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.877192982456
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.912280701754
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.842105263158
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.821428571429
+Mean Correctly is 0.896177944862
+
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.842105263158
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.824561403509
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.824561403509
+Net Structure [30, 4, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.887562656642
+
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.771929824561
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.912280701754
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.964912280702
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.789473684211
+Net Structure [30, 4, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.899843358396
+
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.824561403509
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.894736842105
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.982456140351
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.859649122807
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.80701754386
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.947368421053
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.929824561404
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.912280701754
+Net Structure [30, 4, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.946428571429
+Mean Correctly is 0.903414786967
+
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.771929824561
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.894736842105
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.982456140351
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.892857142857
+Mean Correctly is 0.920864661654
+
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.982456140351
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.927913533835
+
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.894736842105
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.982456140351
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.824561403509
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.892857142857
+Mean Correctly is 0.906829573935
+
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.80701754386
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.857142857143
+Mean Correctly is 0.912030075188
+
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 1
+Ratio Correctly 1.0
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.946428571429
+Mean Correctly is 0.938502506266
+
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.894736842105
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.91914160401
+
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.666666666667
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.894736842105
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.859649122807
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.964285714286
+Mean Correctly is 0.896428571429
+
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.929824561404
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.842105263158
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.894736842105
+Net Structure [30, 8, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.839285714286
+Mean Correctly is 0.901472431078
+
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.947368421053
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.877192982456
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.894736842105
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.964912280702
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.842105263158
+Net Structure [30, 8, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.785714285714
+Mean Correctly is 0.896115288221
+
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.894736842105
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.894736842105
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.946428571429
+Mean Correctly is 0.927976190476
+
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.842105263158
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.80701754386
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.875
+Mean Correctly is 0.913815789474
+
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.80701754386
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 4
+Ratio Correctly 1.0
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.821428571429
+Mean Correctly is 0.927756892231
+
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.877192982456
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.859649122807
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.877192982456
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.91914160401
+
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.894736842105
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.894736842105
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.824561403509
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.875
+Mean Correctly is 0.915570175439
+
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.842105263158
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.877192982456
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.859649122807
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.859649122807
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.877192982456
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.903352130326
+
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 2
+Ratio Correctly 1.0
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.877192982456
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.824561403509
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.824561403509
+Net Structure [30, 16, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.892857142857
+Mean Correctly is 0.917355889724
+
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.80701754386
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.859649122807
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.877192982456
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.894736842105
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.877192982456
+Net Structure [30, 16, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.901597744361
+
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.947368421053
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.929824561404
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.964912280702
+Net Structure [30, 16, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.875
+Mean Correctly is 0.941885964912
+
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.877192982456
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.877192982456
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.982456140351
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.894736842105
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.842105263158
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.91914160401
+
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 2
+Ratio Correctly 1.0
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.982142857143
+Mean Correctly is 0.947337092732
+
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 3
+Ratio Correctly 0.842105263158
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 4
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 6
+Ratio Correctly 0.877192982456
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 7
+Ratio Correctly 0.894736842105
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 8
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 9
+Ratio Correctly 0.877192982456
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.1 Flood 10
+Ratio Correctly 0.875
+Mean Correctly is 0.913815789474
+
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.859649122807
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.982456140351
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.894736842105
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.982456140351
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.928571428571
+Mean Correctly is 0.94373433584
+
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.982456140351
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.894736842105
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 9
+Ratio Correctly 0.859649122807
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.910714285714
+Mean Correctly is 0.938439849624
+
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 1
+Ratio Correctly 0.877192982456
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 2
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 3
+Ratio Correctly 0.912280701754
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 4
+Ratio Correctly 0.877192982456
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 6
+Ratio Correctly 0.894736842105
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 7
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 8
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 9
+Ratio Correctly 1.0
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.25 Flood 10
+Ratio Correctly 0.857142857143
+Mean Correctly is 0.919047619048
+
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.842105263158
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.789473684211
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.912280701754
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.912280701754
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.912280701754
+Net Structure [30, 32, 1] Mutation Rate 0.01 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.839285714286
+Mean Correctly is 0.901472431078
+
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.877192982456
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.912280701754
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.912280701754
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.05 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.928571428571
+Mean Correctly is 0.92969924812
+
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 1
+Ratio Correctly 0.894736842105
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 2
+Ratio Correctly 0.982456140351
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 3
+Ratio Correctly 0.894736842105
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 4
+Ratio Correctly 0.947368421053
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 5
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 6
+Ratio Correctly 0.80701754386
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 7
+Ratio Correctly 0.964912280702
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 8
+Ratio Correctly 0.859649122807
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 9
+Ratio Correctly 0.929824561404
+Net Structure [30, 32, 1] Mutation Rate 0.1 Crossover Rate 0.5 Flood 10
+Ratio Correctly 0.821428571429
+Mean Correctly is 0.906704260652
+

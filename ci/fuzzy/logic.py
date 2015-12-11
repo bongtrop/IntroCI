@@ -31,8 +31,8 @@ class value:
 
 class logic:
 	CT = 0
-	FTM = 1
-	LTM = 2
+	FOM = 1
+	LOM = 2
 	INF = 999999999.0
 
 	def __init__(self, inputVal, outputVal, rules, defuzzifier=0):
@@ -70,7 +70,7 @@ class logic:
 				else:
 					res[o] = first/second
 
-			elif (self.defuzzifier==logic.FTM):
+			elif (self.defuzzifier==logic.FOM):
 				i = f.index(max(f))
 				res[o] = domain[i]
 
